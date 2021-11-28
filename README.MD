@@ -4,3 +4,7 @@ npm init 使当前目录为npm包
 package.json 有记录当前依赖的npm包，执行npm install 就可以自动下载，在上传git时候可以把node_modules删掉 保留package.json
 npm install xxx 安装xxx依赖
 npm uninstall xxx 卸载xxx依赖
+
+node.js 
+express框架
+koa框架:koa-mount,koa-static,koa
